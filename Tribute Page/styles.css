@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Ubuntu:ital@1&display=swap');
+body {
+    
+	background: #EEEEEE;
+	font-family: 'Kanit', sans-serif;
+    color: black;
+    
+}
+
+h1 {
+
+    text-align: center;
+    font-size: 3em;
+	font-family: 'Caudex', serif;
+	font-weight: bold;
+	margin: 0;
+    background-color: #D8D9DA;
+}
+h2 {
+	font-size: 1.8em;
+        margin: 0.5rem 0;
+}
+.row-1{
+    background-color: #D8D9DA;
+}
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Ubuntu:ital@1&display=swap');
+h3{
+font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+hr {
+
+	height: .5rem;
+	border: 0;
+	box-shadow: 0 10px 10px -10px black inset;
+    margin: 2rem 0;
+}
+.jumbotron {
+    text-align: center;
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+    
+}
+.thumbnail p {
+	font-size:small;
+    margin-top: .3rem;
+}
+img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 0.8rem;
+}
+
+h4{
+    font-weight:700;
+    font-size: 1.5rem;
+}
+
+ul{
+    text-align:justify;
+    line-height: 1.5;
+}
+@media screen and (max-width: 767px) {
+    h1 {
+      font-size: 28px;
+    }
+    h2 {
+      font-size: 20px;
+    }
+  }
+
+
+ 
